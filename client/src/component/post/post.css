@@ -1,0 +1,33 @@
+.blog{
+    /* padding: 10px; */
+    min-height: 400px;
+    min-width: 190%;
+    margin-bottom: 30px;
+    padding-bottom: 0px;
+    background-color: whitesmoke;
+}
+
+.blog-content{
+    padding: 30px 50px 10px 50px;
+    display: inline;
+
+    
+}
+
+
+img {
+    /* float: inline-start; */
+    height: 200px;
+    /* clear: left; */
+    /* display: inline-block; */
+    /* float: right; */
+    /* display: inline; */
+}
+
+.blog-footer{
+    /* margin-bottom: 0px; */
+    padding: 10px;
+    width: 100%;
+    height: 50px;
+    background-color: burlywood;
+}

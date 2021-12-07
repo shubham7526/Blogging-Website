@@ -1,0 +1,28 @@
+.body{
+    height: 93vh;
+    width: 100vw;
+
+}
+
+.login-form{
+    border: 1px solid black;
+    height: 443px;
+    width: 500px;
+}
+
+.login-button{
+    margin: 10px 0px 10px 0px;
+    border-radius: 0.7rem;
+    background-color:moccasin;
+    height: 50px;
+}
+
+.login-input{
+    padding: 10px;
+    margin: 2px;
+    border-bottom: 1px solid black;
+}
+
+.login-failed{
+    color: red;
+}

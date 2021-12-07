@@ -1,0 +1,60 @@
+/* .contactLabel{
+    width: 130px;
+}
+
+.contact-form{
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+}
+
+.body{
+    height: 93vh;
+    width: 100vw;
+
+} */
+.send{
+    width: 100px;
+    margin-left: 92%;
+    background-color: burlywood;
+    padding:8px;
+    border-radius: 0.5rem;
+}
+
+.create-post-form{
+    height: 100%;
+    width: 100%;
+}
+
+input{
+    border-style: none;
+}
+
+input:focus{
+    outline: none;
+}
+
+.create-post-button{
+    margin: 10px 0px 10px 0px;
+    border-radius: 0.7rem;
+    background-color:moccasin;
+    height: 50px;
+}
+.create-post-input{
+    padding: 10px;
+    margin: 2px;
+    border-bottom: 1px solid gray;
+}
+
+.create-post-content{
+    height: 150px;
+    width: 100%;
+    margin-top: 30px;
+
+}
+
+.ck.ck-editor__editable_inline {
+   height: 300px;
+   width: auto;
+  flex: 1 1 auto;
+}

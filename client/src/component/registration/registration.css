@@ -1,0 +1,29 @@
+.body{
+    height: 93vh;
+    width: 100vw;
+    padding-top: 100px;
+}
+
+.registration-form{
+    border: 1px solid gray;
+    height: 800px;
+    width: 800px;
+}
+
+.registration-button{
+    margin: 10px 0px 10px 0px;
+    border-radius: 0.7rem;
+    background-color:moccasin;
+    height: 50px;
+}
+
+.registration-input{
+    padding: 10px;
+    margin: 2px;
+    border-bottom: 1px solid black;
+
+}
+
+input:focus{
+    outline: none;
+}

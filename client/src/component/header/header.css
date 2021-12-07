@@ -1,0 +1,74 @@
+.header-body{
+    background-color: orange;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.logo{
+    font-size: x-large;
+}
+
+li{
+    margin-left: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.center_nav_bar{
+    padding-left: 214px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: black;
+}
+
+.my_posts{
+    color: white;
+    /* background-color: chocolate;
+    border-radius: 1rem;
+    padding: 1px 2px 1px 2px; */
+    /* padding: 1px; */
+}
+
+.user_name{
+    background-color: chocolate;
+    border-radius: 0.5rem;
+    padding:7px 15px 7px 15px;
+    color: burlywood;
+    margin-bottom: 0px;
+}
+
+.sign-up{
+    padding: 10px;
+    background-color: moccasin;
+}
+
+.right-side-nav{
+    width: 487px;
+}
+
+.logout{
+    margin-left: 10px;
+    background-color: white;
+    border-style: none;
+    color: red;
+    border-radius: 0.5rem;
+}
+
+.login{
+    /* margin-left: 300px; */
+    margin-top: 7px;
+    padding-left: 10px;
+}
+
+.my_account{
+    margin-right: 10px;
+}

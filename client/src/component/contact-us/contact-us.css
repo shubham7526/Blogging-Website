@@ -1,0 +1,41 @@
+/* .contactLabel{
+    width: 130px;
+}
+
+.contact-form{
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+}
+
+.body{
+    height: 93vh;
+    width: 100vw;
+
+} */
+
+.contact-form{
+    border: 1px solid black;
+    height: 600px;
+    width: 500px;
+}
+
+.contact-button{
+    margin: 10px 0px 10px 0px;
+    border-radius: 0.7rem;
+    background-color:moccasin;
+    height: 50px;
+}
+.contact-input{
+    padding: 10px;
+    margin: 2px;
+    border-bottom: 1px solid black;
+}
+
+.contact-message{
+    height: 150px;
+    width: 100%;
+    /* background-color: blue; */
+    margin-top: 30px;
+
+}
